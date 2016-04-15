@@ -20,6 +20,7 @@ module OpenStates
                        :suffixes,
                        :transparencydata_id,
                        :updated_at,
+                       :boundary_id,
                        :url
 
     class << self
